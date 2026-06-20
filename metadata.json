@@ -1,0 +1,6 @@
+{
+  "name": "InternShield",
+  "description": "AI-Powered Internship Credibility & Verification Platform to analyze internship quality, mentor background, fee transparency, and protect students from exploitative programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
